@@ -1,0 +1,112 @@
+body{
+    margin:0;
+    height:100%;
+    width:100%;
+    padding:0;
+    background:linear-gradient(270deg,#5ebb47,#274);
+    background-repeat:no-repeat;
+    background-attachment:fixed
+}
+.Header{
+    width: 100%;
+    height: 150px;
+    font-family: VERDANA;
+    background: white;
+    position: relative;
+    border-radius: 55px;
+    opacity: 0.8;
+}
+.Heading{
+    position: absolute;
+    font-family: Harlow Solid;
+    font-weight: bold;
+    font-size: 86px;
+    left: 75px;
+    top: 12px;
+}
+.desc{
+    position: absolute;
+    right: 85px;
+    bottom: 10px;
+    font-size: 30px;
+    word-spacing: 7px;
+    font-family: Arial;
+}
+.nav-buttons{
+    width: 91%;
+    background: white;
+    margin-top: 5px;
+    margin-left: 50px;
+    height: 50px;
+    opacity: 0.5;
+    border-radius: 20px;
+    display: flex;
+    overflow: hidden;
+    padding: 0px;
+}
+.nav-buttons a{
+    margin: 0px;
+    padding: 7px;
+    width: 25%;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 30px;
+    color: black;
+    transition-duration: 0.3s;
+    position: sticky;
+}
+.nav-buttons a:hover{
+    background-color: black;
+    color: white;
+    opacity: 0.9;
+}
+.button{
+    display: block;
+    font-family: Arial;
+    font-size: 30px;
+    width: fit-content;
+    min-width: 200px;
+    text-decoration: none;
+    border: 5px solid white;
+    border-radius: 20px;
+    color: white;
+    padding: 1rem;
+    margin: 0 auto;
+    transition: all .2s ease-in-out;
+}
+.dtu{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 90px;
+}
+.more{
+    margin: 0;
+    background-color:  #ffa31a;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    opacity: 0.9;
+    color: Black
+}
+.content{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-family: Bradley Hand ITC;
+    font-size: 50px;
+    font-weight: bold;
+    color: floralwhite;
+}
+.logo{
+    height: 290px;
+}
+.content p {
+    margin: 0;
+    padding: 0;
+}
+.heart{
+    position: relative;
+    height: 150px;
+    top: 85px;
+}

@@ -94,7 +94,7 @@
         d: "Minding his own business, so stop asking"
       },
       correctAnswer: "d"
-    }
+    },
   ];
 
   // display quiz right away

@@ -95,6 +95,16 @@
       },
       correctAnswer: "d"
     },
+   {
+      question: "Who is the best character in the show 'Friends'?",
+      answers: {
+        a: "Chandler",
+        b: "Joey",
+        c: "Rachel",
+        d: "Janice, any day"
+      },
+      correctAnswer: "d"
+    },
   ];
 
   // display quiz right away

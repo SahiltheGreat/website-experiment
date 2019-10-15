@@ -3,7 +3,7 @@ See all the branches on your local repo: git branch
 switch between branches: git checkout BranchName
 
 
-Why we use branche:
+Why we use branches:
 
 	Reason for using branches is that, so that the master branch remains clean
 
